@@ -8,10 +8,10 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
+    text: "Pointer.io",
+    url: "https://www.pointer.io",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "Fennec recommends Pointer.io! They compile 5-10 articles about Software Engineering and Web Development twice weekly and send them via email. Convenient!",
   },
   {
     text: "Examples",
